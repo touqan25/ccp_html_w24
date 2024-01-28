@@ -1,2 +1,2 @@
-# ccp_html_w24
-HW for Week 2
+# ccp_starter_code
+Starter Code for your CCP 
